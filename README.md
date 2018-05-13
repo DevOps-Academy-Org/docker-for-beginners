@@ -5,9 +5,10 @@ This repository contains the materials for the Docker for Beginners workshop.
 After finishing the workshop you should have a good understanding of what Docker is, what it benefits are and when and where to use it. 
 Furthermore you should have gained lots of hands-on experience on how to use the Docker CLI to best work with images and containers.
 Finally you will have learned how to build your own Docker images from Dockerfiles and how to publish these to the Dockerhub.
+From here you can move on to advanced topics like managing multi-container applications with Docker-Compose.
 
 # Agenda
-1. Docker Intro (company, technolgy, ...)
+1. Docker Intro (company, technology, ...)
 
 2. Docker Terms, Concepts & Architecture
 
@@ -27,8 +28,8 @@ Finally you will have learned how to build your own Docker images from Dockerfil
 
 10. A look at Docker Networking: DNS, IP addresses, Network Modes
 
-8. Working with Docker Images: Basics
+11. Working with Docker Images: Basics
 
-9. Working with Docker Images: Advanced
+12. Working with Docker Images: Advanced
 
-10. Working with Docker Images: Building Images
+13. Working with Dockerfiles: Building Images
