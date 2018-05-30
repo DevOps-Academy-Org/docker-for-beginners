@@ -33,3 +33,5 @@ From here you can move on to advanced topics like managing multi-container appli
 12. Working with Docker Images: Advanced
 
 13. Working with Dockerfiles: Building Images
+
+14. Working with the Docker Hub: Pushing Images
